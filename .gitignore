@@ -1,0 +1,18 @@
+# Сборка PyInstaller
+build
+dist
+portable
+.spec
+__pycache__
+.pyc
+
+# Сборка Inno Setup
+Output
+
+# Личные данные — НЕ выкладываем
+Logs
+Screenshots
+config.json
+
+# Сгенерированная иконка (создаётся при запуске)
+assetsicon.ico
